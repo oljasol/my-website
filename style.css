@@ -1,0 +1,20 @@
+header img {
+    width: 100%;
+}
+main {
+    width: 80%;
+    margin: auto;
+}
+.photoline {
+    display:flex ;
+    justify-content: space-between;
+}
+.photo {
+width: 32%;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
